@@ -2,6 +2,11 @@ a
 c
 fix 1
 fix 2
+<<<<<<< HEAD
 fix 5
 
 cool 1
+=======
+cool 1
+cool 22
+>>>>>>> cool
